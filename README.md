@@ -2,10 +2,12 @@
 Use github pages build a blog
 
 ***
+
 ## how to start
-1 select a theme [theme store]{http://jekyllthemes.org/}
-2 unzip the theme.zip and copy files to your repo.
-3 fill the file `_config.yml` like
+
+1. select a theme [theme store](http://jekyllthemes.org/)
+2. unzip the theme.zip and copy files to your repo.
+3. fill the file `_config.yml` like
 
 ```yaml
 name: Gaoooyh's 
@@ -35,7 +37,7 @@ comments :
   > how to get gitalk clientID/Secret?
   > Settings-> Developer settings->Oauth Apps
 
-4 add your post in path `./_post`, format : 
+4. add your post in path `./_post`, format : 
 
 ```md
 ---
