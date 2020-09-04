@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test the blog 
+title: SpringBoot note 01
 date: 2020-09-04 15:00:00 +0800
 category: springboot
 thumbnail: /style/image/thumbnail.png
@@ -9,7 +9,6 @@ icon: note
 
 * content
 {:toc}
-
 
 springboot的学习记录过程，更详细的[官方文档](https://snailclimb.gitee.io/springboot-guide/)
 
