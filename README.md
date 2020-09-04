@@ -1,5 +1,6 @@
 # gaoooyh.github.io
-Use github pages build a blog
+Use github pages build a blog.
+
 view the [demo](https://gaoooyh.github.io)
 
 ***
