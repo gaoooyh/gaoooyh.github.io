@@ -1,11 +1,12 @@
 # gaoooyh.github.io
 Use github pages build a blog
+view the [demo](https://gaoooyh.github.io)
 
 ***
 
 ## how to start
 
-1. select a theme [theme store](http://jekyllthemes.org/)
+1. select a theme in [theme store](http://jekyllthemes.org/)
 2. unzip the theme.zip and copy files to your repo.
 3. fill the file `_config.yml` like
 
