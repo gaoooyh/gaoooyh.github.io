@@ -4,7 +4,7 @@ title: Test the blog
 date: 2020-09-04 15:00:00 +0800
 category: springboot
 thumbnail: /style/image/thumbnail.png
-icon: book
+icon: note
 ---
 
 * content
