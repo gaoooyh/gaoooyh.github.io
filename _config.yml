@@ -2,7 +2,7 @@ name: blog
 author: gaoooyh
 url: https://gaoooyh.github.io
 baseurl: 
-resume_site: this is a resume site.
+resume_site: about
 description: this is a description.
 github_username: gaoooyh
 github: https://www.github.com/gaoooyh
@@ -12,7 +12,7 @@ paginate: 12
 paginate_path: "/page/:num/"
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 highlighter: rouge
-markdown: kramdown
+markdown: redcarpet
 comments :
   gitalk :
     clientID : 4a540e6a81d1046feddb
