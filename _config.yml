@@ -1,7 +1,7 @@
-name: yhgao
+name: blog
 author: gaoooyh
-url: gaoooyh.github.io
-baseurl: https://gaoooyh.github.io
+url: https://gaoooyh.github.io
+baseurl: 
 resume_site: this is a resume site.
 description: this is a description.
 github_username: gaoooyh
@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 
-    clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+    clientID : 4a540e6a81d1046feddb
+    clientSecret : c292fd3ab813e60fdf0b316494282145d0b8f5ab
+    repo : gaoooyh.github.io
+    owner : gaoooyh
+    admin : gaoooyh
