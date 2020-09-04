@@ -1,11 +1,11 @@
-name: 
+name: yhgao
 author: gaoooyh
 url: gaoooyh.github.io
-baseurl: 
-resume_site: 
-description: 
+baseurl: https://www.baidu.com
+resume_site: this is a resume site.
+description: this is a description.
 github_username: gaoooyh
-github: github.com/gaoooyh
+github: https://www.github.com/gaoooyh
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
