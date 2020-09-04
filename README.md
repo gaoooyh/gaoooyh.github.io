@@ -1,35 +1,21 @@
 # gaoooyh.github.io
-### Use github pages build personal blog
+Use github pages build a blog
+
 ***
-# Theme pinghsu-jekyll
-
-a jekyll theme which is based on a typecho theme pinghsu
-
-## Preview
-
-[Lightfish Blog](http://lightfish.cn)
-
-![Screenshot](https://raw.githubusercontent.com/lightfish-zhang/pinghsu-jekyll/master/preview.png)
-
-![Screenshot](https://raw.githubusercontent.com/lightfish-zhang/pinghsu-jekyll/master/preview2.png)
-
-![Screenshot](https://raw.githubusercontent.com/lightfish-zhang/pinghsu-jekyll/master/preview3.png)
-
-## How to start
-
-- fill the file `_config.yml`
-
-example
+## how to start
+1 select a theme [theme store]{http://jekyllthemes.org/}
+2 unzip the theme.zip and copy files to your repo.
+3 fill the file `_config.yml` like
 
 ```yaml
-name: A Blog
-author: Lightfish Zhang
-url: https://lightfish-zhang.github.io
-resume_site: https://lightfish-zhang.github.io
+name: Gaoooyh's 
+author: gaoooyh
+url: https://gaoooyh.github.io
 baseurl: 
-description: you website desc
-github_username: lightfish-zhang
-github: https://github.com/lightfish-zhang
+resume_site: about
+description: this is a description.
+github_username: gaoooyh
+github: https://www.github.com/gaoooyh
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
@@ -46,8 +32,10 @@ comments :
     admin : lightfish-zhang
 
 ```
+  > how to get gitalk clientID/Secret?
+  > Settings-> Developer settings->Oauth Apps
 
-- add your post in path `./_post`, format : 
+4 add your post in path `./_post`, format : 
 
 ```md
 ---
@@ -75,11 +63,6 @@ add the thumbnail url
 
 such as book, code, web, chat, note, game, link, design, image
 ```
-
-some config about gitalk, please reference to [gitalk](https://github.com/gitalk/gitalk)
-
-run `bundle install` and `jekyll server` to preview site on you computer, more question about jekyll, reference to [jekyll](http://jekyllrb.com)
-
 
 
 ## Developer
