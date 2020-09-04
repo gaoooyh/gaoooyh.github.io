@@ -1,3 +1,22 @@
-theme: jekyll-theme-hacker
-title: Sometimes a little discomfort in the beginning can save a whole lot of pain down the road.
-description: Some of us get dipped in flat some in satin some in gloss. But every once in a while you find someone who's iridescent. And when you do nothing will ever compare.
+name: 
+author: 
+url: 
+baseurl: 
+resume_site: 
+description: 
+github_username: 
+github: 
+plugins: [jekyll-paginate]
+permalink: /:year-:month-:day-:title
+paginate: 12
+paginate_path: "/page/:num/"
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+highlighter: rouge
+markdown: kramdown
+comments :
+  gitalk :
+    clientID : 
+    clientSecret : 
+    repo : 
+    owner : 
+    admin : 
