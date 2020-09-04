@@ -37,6 +37,7 @@ public @interface SpringBootApplication {
 * @ComponentScan
 ***
 ### @SpringBootConfiguration
+它的代码为
 ```
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
