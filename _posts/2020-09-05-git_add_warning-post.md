@@ -31,12 +31,11 @@ git config core.autocrlf true
 
 如果是团队协作(跨平台)项目, 建议与团队进行沟通并保持统一的换行,然后修改编辑器设置为指定换行类型,尽量避免git对文件的自动替换.
 
-**If you can, avoid Git making any change to your eol, and work with editors which respect the eol of the file being edited.**
+**建议不要使用git的自动转换!!!**
 
 ******************************
-+++++++++++++++++++++++++++++++++++++++++++++++++++(手动分隔符)
 
-原文写的更清楚:[跳转原文]{http://vcloud-lab.com/entries/devops/resolved-git-warning-lf-will-be-replaced-by-crlf-in-file}
+原文写的更清楚:[跳转原文](http://vcloud-lab.com/entries/devops/resolved-git-warning-lf-will-be-replaced-by-crlf-in-file)
 部分节选:
 
 > In Unix systems the end of a line is represented with a line feed (LF). 
