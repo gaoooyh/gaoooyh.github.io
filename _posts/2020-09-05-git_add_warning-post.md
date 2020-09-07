@@ -4,7 +4,7 @@ title: git add warning
 date: 2020-09-04 18:00:00 +0800
 category: debug
 thumbnail: /style/image/thumbnail.png
-icon: note
+icon: code
 ---
 
 * content
@@ -51,6 +51,8 @@ git config core.autocrlf true
 
 If you want to make an intelligent decision how git should handle this, read the documentation.
 > `Formatting and whitespace issues are some of the more frustrating and subtle problems that many developers encounter when collaborating, especially cross-platform. It’s very easy for patches or other collaborated work to introduce subtle whitespace changes because editors silently introduce them, and if your files ever touch a Windows system, their line endings might be replaced. Git has a few configuration options to help with these issues.
+
+
 ```
 core.autocrlf
 ```
