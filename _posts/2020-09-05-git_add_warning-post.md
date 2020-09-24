@@ -3,7 +3,7 @@ layout: post
 title: git add warning
 date: 2020-09-04 18:00:00 +0800
 category: debug
-thumbnail: /style/image/thumbnail.png
+thumbnail: /style/image/debug.png
 icon: code
 ---
 

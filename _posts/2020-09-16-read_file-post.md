@@ -1,5 +1,17 @@
-# 几种读取文件方式的区别
+---
+layout: post
+title: 几种读取文件方法的路径填写
+date: 2020-09-16 15:00:00 +0800
+category: note
+thumbnail: /style/image/note.png
+icon: note
+---
 
+* content
+{:toc}
+
+# 几种读取文件方式的区别
+主要学习和了解以下几种获取文件的方法的区别
 * Class.getResource()
 * Class.getResourceAsStream()
 * FileInputStream()
