@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: git add warning
+title: git 不区分大小写???
 date: 2020-10-30 18:00:00 +0800
 category: debug
 thumbnail: /style/image/debug.png
