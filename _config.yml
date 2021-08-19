@@ -1,9 +1,9 @@
-name: Sky city without bugs.
+name: 今天又写bug了嘛
 author: gaoooyh
 url: https://gaoooyh.github.io
 baseurl: 
 resume_site: about
-description: this is a description.
+description: 记一些有的没的.
 github_username: gaoooyh
 github: https://www.github.com/gaoooyh
 plugins: [jekyll-paginate]
