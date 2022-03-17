@@ -35,7 +35,7 @@ InnoDB中的普通索引的叶子节点存储着主键值(聚集索引)
 
 
 图为两种索引方式存储的叶子节点
-![](img/index.png)
+![index.png](https://s2.loli.net/2022/03/17/N8lxkWOs2hcZb6U.png)
 
 
 
