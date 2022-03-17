@@ -81,11 +81,11 @@ Innodb通过提供next-key锁定算法,保证使用 where for update时 会阻�
 
 stackOverFlow 上关于这个问题的回答挺有意思的, vote较高的两个回答, 恰好就是两个派系的.
 
-<img src="_posts/img/QQ20210928-142602.png" style="zoom:80%;" />
+![](img/QQ20210928-142602.png)
 
 这个回答就是采用的争议点2 (`MySQL文档一致性非阻塞读`中也有提到) 就不再多解释了. 但这种是否应该视为幻读? 
 
-<img src="_posts/img/QQ20210928-142933.png" style="zoom:80%;" />
+<img src="/_posts/img/QQ20210928-142933.png" style="zoom:80%;" />
 
 而这个回答强调的是, 一个事务内所有的一致性读都是读取的第一次select 时创建的快照, 这一点在上面也说了
 
